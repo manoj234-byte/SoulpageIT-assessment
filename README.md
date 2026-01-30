@@ -38,4 +38,3 @@ Bot: Sam Altman studied at Stanford University.
 - main.py
 - requirements.txt
 - README.md
-- 
